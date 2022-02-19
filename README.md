@@ -40,3 +40,21 @@ When the user writes the data in left side (Product Items Details Section) and c
 When the user click Clear button then the entries on the right side(Product Items Detail Section) get deleted.
 
 <img src="image/clear.png" width="630">
+
+## Close
+
+When the user click Close button then a confirmation message will be shown to close the app.
+
+<img src="image/close.png" width="630">
+
+## Click
+
+When the user click a particular entry from right side (Product Items Detail Section) the values will automatically be filled in left side (Product Items Details Section)
+
+<img src="image/click.png" width="630">
+
+## Check
+
+When the user click Check button the user went to a new page where he can check that till a particular date which all medicine that he has will get expired and according to it he/she can manage his new buying.
+
+<img src="image/check.png" width="630">
