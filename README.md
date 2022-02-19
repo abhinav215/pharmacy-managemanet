@@ -24,7 +24,9 @@ When the user writes the data(product id is compulsory) and click Delete button 
 
 When the user writes the data in left side (Product Items Details Section) and click Insert button then the entries are added in the database and the database entries are shown on the right side box (Product Items Detail Section).
 <img src="image/update1.png" width="630">
+
 Now the user can click on show to view the whole database.
+
 <img src="image/update2.png" width="630">
 
 ## Search
