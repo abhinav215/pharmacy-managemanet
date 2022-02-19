@@ -6,4 +6,4 @@
 
 When the user writes the data in left side (Product Items Details Section) and click Insert button then the entries are added in the database and the database entries are shown on the right side box (Product Items Detail Section).
 
-<img src="image/insert.png" width="500">
+<img src="image/insert.png" width="630">
